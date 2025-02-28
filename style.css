@@ -1,0 +1,47 @@
+body{
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+}
+
+img {
+    float: middle;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-style: solid;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 0px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.First {
+    font-size: 30px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+i {
+    font-size: 25px;
+    padding: 0px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    margin: 15px;
+}
+
+.note1 {
+    width: 40%;
+    border-style: solid;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
